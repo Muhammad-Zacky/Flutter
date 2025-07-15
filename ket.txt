@@ -1,0 +1,25 @@
+== Keterangan ==
+
+Lat 1 = MLpertemuan1
+Pr Row Column = apkzacky
+chache image = apkzacky
+get toast = apkzacky
+simpel login = apkzacky
+form dosen = apkzacky
+list dan detail dosen = apkzacky
+lat UI = apkzacky
+map rumah = apkzacky
+map rumah hospital = apkzacky
+model-user = lumen-api
+list-user-api = apiflutter
+note-app = application_note
+model-login = client_server
+reg-api = user-api
+login-api = user-api
+list-user = 
+crud-user api = di lumen
+list-tambah dosen =
+crud-api RS = di lumen 
+demo rs = 
+pra uas = 
+submit project = 

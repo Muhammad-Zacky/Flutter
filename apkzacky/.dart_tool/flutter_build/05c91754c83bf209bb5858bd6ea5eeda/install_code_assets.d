@@ -1,0 +1,1 @@
+ /home/zacky/Desktop/Tugas\ yang\ kurang/apkzacky/.dart_tool/flutter_build/05c91754c83bf209bb5858bd6ea5eeda/native_assets.json: 
